@@ -10,4 +10,4 @@ Steps to compile:
 Execute the following command:
 
 > Go build Counter-of-Words.go
-
+Run
